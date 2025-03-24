@@ -1,0 +1,3 @@
+# to ignore lfs files
+dnn_model/yolov4.weights
+Dynamic-Traffic-Management-System/dnn_model/yolov4.weights
